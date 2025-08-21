@@ -19,3 +19,25 @@ To process a 2D array, nested loops are commonly used. The outer loop iterates t
 
 Algorithm:
 
+1) Algoritm of the code matrix input and displaying.
+a. Start
+b. Declare integer variables: rows, cols, i, j
+c. Prompt user to enter number of rows → store in rows
+d. Prompt user to enter number of columns → store in cols
+e. Declare a 2D array m1[20][20] to store matrix elements
+f. Display message: "Enter elements for the matrix"
+g. Loop through each row i from 0 to rows - 1
+h. Loop through each column j from 0 to cols - 1
+i. Prompt user to enter element at position [i][j]
+j. Store input in m1[i][j]
+k. Display message: "The matrix is"
+l. Loop through each row i from 0 to rows - 1
+m. Loop through each column j from 0 to cols - 1
+n. Print m1[i][j] followed by a space
+o. After each row, print a newline
+p. End
+
+2) Algorithm of the code addition of 2D Array Matrix
+
+
+
